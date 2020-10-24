@@ -1,4 +1,4 @@
-## My Library - Simple Invoice Management System
+## Simple Invoice Management System
 
 Uses 
 - [Laravel 5.8](https://laravel.com)
@@ -6,10 +6,10 @@ Uses
 
 This is a project I made for a friend long ago. Never used on live. I decided to share it in case anyone needs it.
 
-It can be used for a sample for excel imports, templated sms / email sending, datatables usage etc...
+It can be used as a sample for excel imports, templated sms / email sending, datatables usage etc...
 
 
-Some sample screens
+##Some sample screens
 
 <img width="1752" alt="Invoices List" src="https://user-images.githubusercontent.com/31820045/97091202-e032a480-1642-11eb-8d61-d793160d02db.png">
 <img width="1752" alt="Invoice Actions" src="https://user-images.githubusercontent.com/31820045/97091205-e32d9500-1642-11eb-8e18-483164f08edf.png">
